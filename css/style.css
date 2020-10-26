@@ -50,6 +50,9 @@
   width: 90%;
   border: 1px solid black;
   background: orange;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
 }
 
 .social {
@@ -57,6 +60,9 @@
   width: 90%;
   border: 1px solid black;
   background: orange;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
 }
 
 .about {
@@ -64,14 +70,11 @@
   width: 90%;
   border: 1px solid black;
   background: orange;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
 }
 
-.about {
-  height: 33%;
-  width: 90%;
-  border: 1px solid black;
-  background: orange;
-}
 
 .copyright {
 height: 100px;
