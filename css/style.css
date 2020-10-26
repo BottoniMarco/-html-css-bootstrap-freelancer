@@ -9,7 +9,6 @@
 }
 
 .container_two {
-  height: 1500px;
   background: purple;
 }
 
@@ -28,7 +27,16 @@
   background: #2C3E50;
 }
 
-[class*="col-"] [class*="col-"] {
-  height: 50px;
-  background: yellow;
+[class*="col-"] [class*="col-xs-12"] {
+  height: 200px;
+  border: 1px solid black;
+  background: red;
+  margin: 20px 0;
 }
+
+/* .portfolio_image {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  background: red;
+} */
