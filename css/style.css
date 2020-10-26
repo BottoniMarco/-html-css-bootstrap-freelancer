@@ -1,0 +1,34 @@
+.container_header {
+  height: 100px;
+  background: #2C3E50;
+}
+
+.container_one {
+  height: 500px;
+  background: #1ABC9C;
+}
+
+.container_two {
+  height: 1500px;
+  background: purple;
+}
+
+.container_three {
+  height: 700px;
+  background: #1ABC9C;
+}
+
+.container_four {
+  height: 600px;
+  background: purple;
+}
+
+.container_footer {
+  height: 500px;
+  background: #2C3E50;
+}
+
+[class*="col-"] [class*="col-"] {
+  height: 50px;
+  background: yellow;
+}
